@@ -22,9 +22,9 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>releaseNotes</key>
-                <string>Agame-Alpha</string>
+                <string>Agame-Trunk</string>
                 <key>title</key>
-                <string>Agame-Alpha</string>
+                <string>Agame-Trunk</string>
             </dict>
         </dict>
     </array>
